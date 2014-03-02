@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Projectzero::Application.config.secret_key_base = '0d6830db7a8658eedbd0d65aa0237839b6301da40345c4cb88827ac6d4e0e018554e68b457c496124570d148f257d3e533e05172596b84f47ff921d51b787b38'
+Projectzero::Application.config.secret_key_base = '68dd1f20c4b17d170610e9782baf82f49c178a4dc24c77ac030d640064d39c6817fc15edf17129948ff7e2308a91d232767717bbe5a9f06afd72e21e40d5c075'
